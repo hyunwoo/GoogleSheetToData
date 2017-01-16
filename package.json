@@ -1,0 +1,30 @@
+{
+  "name": "googlesheettodata",
+  "description": "google sheet to json or matrix data",
+  "engines": {
+    "node": ">= 6.3.0"
+  },
+  "author": {
+    "name": "luan",
+    "email": "h.hyunwoo@gmail.com"
+  },
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "google-spreadsheet": "^2.0.3",
+    "lodash": "^4.17.4"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "googlespreadsheet",
+    "spreadsheet"
+  ]
+}
