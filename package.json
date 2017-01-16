@@ -16,7 +16,7 @@
     "url": "github.com/hyunwoo/GoogleSheetToData/issues"
   },
   "main": "./lib/GoogleSheetToData",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "start": "node ./bin/www"
   },
