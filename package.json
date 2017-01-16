@@ -15,8 +15,8 @@
   "bugs": {
     "url": "github.com/hyunwoo/GoogleSheetToData/issues"
   },
-  "main": "./lib/index",
-  "version": "0.0.1",
+  "main": "./lib/GoogleSheetToData",
+  "version": "0.0.2",
   "scripts": {
     "start": "node ./bin/www"
   },
