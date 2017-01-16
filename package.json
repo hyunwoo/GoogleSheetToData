@@ -1,15 +1,22 @@
 {
-  "name": "googlesheettodata",
+  "name": "google-sheet-to-data",
   "description": "google sheet to json or matrix data",
   "engines": {
     "node": ">= 6.3.0"
   },
   "author": {
-    "name": "luan",
+    "name": "h.hyunwoo",
     "email": "h.hyunwoo@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hyunwoo/GoogleSheetToData.git"
+  },
+  "bugs": {
+    "url": "github.com/hyunwoo/GoogleSheetToData/issues"
+  },
+  "main": "./lib/index",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
