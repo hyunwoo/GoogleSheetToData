@@ -1,6 +1,6 @@
 {
   "name": "google-sheet-to-data",
-  "description": "google sheet to json or matrix data",
+  "description": "convert google spread sheet to json or matrix",
   "engines": {
     "node": ">= 6.3.0"
   },
@@ -15,8 +15,8 @@
   "bugs": {
     "url": "github.com/hyunwoo/GoogleSheetToData/issues"
   },
-  "main": "./lib/GoogleSheetToData",
-  "version": "0.0.3",
+  "main": "./lib/google-sheet-to-data",
+  "version": "0.1.1",
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -32,6 +32,8 @@
   ],
   "keywords": [
     "googlespreadsheet",
+    "google spread sheet",
+    "google spread sheet json",
     "spreadsheet"
   ]
 }
